@@ -7,25 +7,25 @@ I'm a Machine Learning graduate student at Georgia Tech and a software engineer 
 - Creating Generative Intelligence AI Agents
 - Practicing algorithms and data structures
 
-## ✨ Interests
+<!-- ## ✨ Interests
 - Machine Learning
 - Algorithmic Trading
 - Artificial Intelligence
 - Data Science
-- Systems & Algorithms
+- Systems & Algorithms -->
 
 ## 💻 Tech Stack
 **Languages**
 
-Python, Java, JavaScript, C, C#
+Python, JavaScript, TypeScript, Java, C, C#, HTML/CSS, XML, XSLT
 
 **Libraries**
 
-NumPy, Pandas, Matplotlib, TensorFlow, PyTorch, Scikit-Learn
+TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, XGBoost, PyTorch
 
-**Tools**
+**Frameworks/Tools**
 
-Git, Unix/Linux, Docker, Jupyter, VS Code, AWS, Google Cloud Platform
+React.js, Flask, Node.js, Express.js, MySQL, MongoDB, Git, GitHub, AWS, GCP, Azure DevOps, Jenkins, Linux/Unix, VS Code, IntelliJ, Eclipse
 
 ## 🚀 Featured Projects
 
@@ -34,6 +34,10 @@ Developed a full-stack web app utilizing machine learning to predict real world 
 
 🧬 Skin Cancer ML Prediction
 Built and deployed a full-stack ML web app achieving 81% accuracy in classifying 7 skin lesion types (cancerous and benign) for early detection.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConnieLam8&show_icons=true&theme=github_dark)
 
 ## 📫 Connect With Me
 

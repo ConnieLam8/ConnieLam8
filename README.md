@@ -35,10 +35,6 @@ Developed a full-stack web app utilizing machine learning to predict real world 
 🧬 Skin Cancer ML Prediction
 Built and deployed a full-stack ML web app achieving 81% accuracy in classifying 7 skin lesion types (cancerous and benign) for early detection.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConnieLam8&show_icons=true&theme=github_dark)
-
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/connie-a-lam-a9611822a/

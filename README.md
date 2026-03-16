@@ -38,4 +38,5 @@ Built and deployed a full-stack ML web app achieving 81% accuracy in classifying
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/connie-a-lam-a9611822a/
+
 Email: connielam1288@gmail.com

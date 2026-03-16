@@ -17,7 +17,7 @@ I'm a Machine Learning graduate student at Georgia Tech and a software engineer 
 ## 💻 Tech Stack
 **Languages**
 
-Python, JavaScript, TypeScript, Java, C, C#, HTML/CSS, XML, XSLT
+Python, JavaScript, TypeScript, Java, XML
 
 **Libraries**
 
@@ -25,7 +25,7 @@ TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, XGBoost, Py
 
 **Frameworks/Tools**
 
-React.js, Flask, Node.js, Express.js, MySQL, MongoDB, Git, GitHub, AWS, GCP, Azure DevOps, Jenkins, Linux/Unix, VS Code, IntelliJ, Eclipse
+React.js, Flask, Node.js, Express.js, MySQL, MongoDB, Git, GitHub, AWS, GCP, Azure, Jenkins, Linux/Unix
 
 ## 🚀 Featured Projects
 
